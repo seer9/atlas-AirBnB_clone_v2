@@ -1,0 +1,1 @@
+This is a part of the AirBnB clone project. It focuses on creating web applications using Flask.
