@@ -1,7 +1,10 @@
 #!/usr/bin/python3
 """this script starts a Flask web application that prints Hello HBNB!"""
+
+
 from flask import Flask
 app = Flask(__name__)
+
 
 @app.route('/', strict_slashes=False)
 def hello():
